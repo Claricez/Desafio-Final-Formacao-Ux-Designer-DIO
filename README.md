@@ -82,6 +82,3 @@ Este repositório contém o projeto desenvolvido como parte do Desafio Final de 
 
 Este projeto foi desenvolvido aplicando todas as etapas de design e prototipagem, resultando em um protótipo completo e navegável.
 
----
-
-Esse formato de lista facilita a visualização dos pontos principais do projeto. Ajuste conforme necessário!
